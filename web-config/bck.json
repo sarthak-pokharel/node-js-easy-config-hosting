@@ -1,0 +1,10 @@
+{
+	"text/html": "html htm",
+	"text/css": "css",
+	"text/plain": "js txt",
+	"video/mp4": "mp4",
+	"video/mkv": "mkv",
+	"audio/mp3": "mp3",
+	"audio/ogg": "ogg",
+	"font/ttf": "ttf"
+}
